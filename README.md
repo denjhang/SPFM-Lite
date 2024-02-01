@@ -1,2 +1,2 @@
 # SPFM-Lite
- SPFM Light clone, functionally the same as the original.
+ SPFM Light compatible, functionally the same as the original.
